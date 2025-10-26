@@ -48,6 +48,10 @@ Portfolio projects built to demonstrate scripting quality and system structure.
    DataStore-based save system with retry safety, autosave, server validation, leaderstats and currency handling.  
    (Folder: demos/demo-data)
 
+4. Quest System – Modular Mission Flow  
+   Start / progress / complete quest lifecycle with server authority and support for collect, kill and NPC quests.  
+   (Folder: demos/demo-quests)
+
 More demos in progress.
 
 ---
