@@ -49,8 +49,12 @@ Portfolio projects built to demonstrate scripting quality and system structure.
    (Folder: demos/demo-data)
 
 4. Quest System – Modular Mission Flow  
-   Start / progress / complete quest lifecycle with server authority and support for collect, kill and NPC quests.  
+   Start, progress and complete quest lifecycle with support for collect, kill and talk quests.  
    (Folder: demos/demo-quests)
+
+5. Trading System – Secure Item Exchange  
+   Player-to-player trading with double confirmation, inventory integration and anti-dupe safety.  
+   (Folder: demos/demo-trading)
 
 More demos in progress.
 
