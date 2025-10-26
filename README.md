@@ -36,13 +36,17 @@ Project Demos
 -------------
 Portfolio projects built to demonstrate scripting quality and system structure.
 
-1. **Gacha System – Luck + Pity Architecture**  
+1. Gacha System – Luck + Pity Architecture  
    Server-authoritative gacha logic with rarity configuration, soft pity system and modular services.  
-   *(Folder: demos/demo-gacha)*
+   (Folder: demos/demo-gacha)
 
-2. **Inventory System – Slot and Stack Structure**  
+2. Inventory System – Slot and Stack Structure  
    Stack-based inventory with item database, slot limits, add/remove functions and server validation.  
-   *(Folder: demos/demo-inventory)*
+   (Folder: demos/demo-inventory)
+
+3. Data Save System – Persistent Player Stats  
+   DataStore-based save system with retry safety, autosave, server validation, leaderstats and currency handling.  
+   (Folder: demos/demo-data)
 
 More demos in progress.
 
