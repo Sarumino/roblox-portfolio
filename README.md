@@ -40,6 +40,10 @@ Portfolio projects built to demonstrate scripting quality and system structure.
    Server-authoritative gacha logic with rarity configuration, soft pity system and modular services.  
    *(Folder: demos/demo-gacha)*
 
+2. **Inventory System – Slot and Stack Structure**  
+   Stack-based inventory with item database, slot limits, add/remove functions and server validation.  
+   *(Folder: demos/demo-inventory)*
+
 More demos in progress.
 
 ---
@@ -48,4 +52,3 @@ Contact
 -------
 Discord: **sarumino**  
 Status: Available for commissions
-
