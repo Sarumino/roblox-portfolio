@@ -1,4 +1,4 @@
-Gacha System Demo – Luck and Pity Architecture
+# Gacha System Demo – Luck and Pity Architecture
 
 This is a modular Gacha System written in Luau for Roblox. It uses server-authoritative logic with Luck and Pity mechanics to improve fairness and prevent bad luck streaks. The architecture is lightweight, expandable and easy to integrate into simulator, RPG or loot-based Roblox games.
 
