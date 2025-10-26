@@ -60,6 +60,18 @@ More demos in progress.
 
 ---
 
+Reusable Scripts
+----------------
+Utility scripts designed for clean code structure and reusable logic.
+
+| Script Name       | Description                                  |
+|-------------------|----------------------------------------------|
+| Signal.lua        | Lightweight custom event system              |
+| Debounce.lua      | Prevents function spam with cooldown logic   |
+| TableUtils.lua    | Table helper functions (find, copy, merge)   |
+
+(Folder: scripts)
+
 Contact
 -------
 Discord: **sarumino**  
