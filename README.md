@@ -1,4 +1,4 @@
-# Roblox Scripter Portfolio – sarumino
+# Roblox Scripter Portfolio – Sarumino
 ====================================
 
 I am a Roblox Gameplay Programmer focused on system architecture, clean scripting and reliable client–server communication using Luau. I build scalable gameplay systems and tools designed to be maintainable and easy to extend.
